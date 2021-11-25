@@ -9,9 +9,7 @@
 <table align="center"width="85%">
 <tr><th><h1>MY RESUME</h1></th></tr>
 <tr><th align="left"><h2>Vinukonda Naveena Priya</h2>
-<img src="pictures/![naveena img](https://user-images.githubusercontent.com/94543476/143455433-bf21a3fa-aa43-46f4-bded-1e7927b29abd.jpg)
-
-" alt=not found"align="right" height="200"width="200"/>
+<img src="pictures/naveena.img" alt=not found"align="right" height="200"width="200"/>
 <ul>
 <li>very determied and discipline about work</li><br>
 <li>a class="fa fa-phone">8008380911</a></li><br>
