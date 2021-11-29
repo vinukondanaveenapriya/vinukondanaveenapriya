@@ -137,9 +137,9 @@
      <div class ="title">
        <p class ="bold">Declaration</p>
      </div>
-     I do hereby declare that the above information is true to the best of my knowledge.
-     Naveena Priya
-     Place: Tirupathi
-     Date:27/11/2021
+     I do hereby declare that the above information is true to the best of my knowledge.<BR></BR>
+     Naveena Priya,<BR></BR>
+     Place: Tirupathi<BR></BR>
+     Date:27/11/2021<BR></BR>
      </BODY>
   </HTML>
