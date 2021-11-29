@@ -12,9 +12,9 @@
 <img src="pictures/naveena.img" alt=not found"align="right" height="200"width="200"/>
 <ul>
 <li>very determied and discipline about work</li><br>
-<li>a class="fa fa-phone">8008380911</a></li><br>
-<li>a class="fa-fa=enevelope">vinukondanaveena013@gmail.com</a></li><br>
-<li>a class="fa-fa-linkedin" href="https://www.linkedin.com/in/Naveena013/"></a></li></ul>
+<li><a class="fa fa-phone">8008380911</a></li><br>
+<li><a class="fa-fa=enevelope">vinukondanaveena013@gmail.com</a></li><br>
+<li><a class="fa-fa-linkedin" href="https://www.linkedin.com/in/Naveena013/"></a></li></ul>
 </th>
 </tr>
 </table>
