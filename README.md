@@ -12,7 +12,7 @@
 <div class="resume">
   <div class="resume_left">
     <div class="resume_profile">
-      <![IMG-20210802-WA0009 (1)](https://user-images.githubusercontent.com/94543476/143875946-da0f2375-305f-4eed-a78c-a84e3515f7a9.jpg)>
+      <img src="downloads\naveena.image">
     </div>
     <div class="resume_content">
       <div class="resume_item resume_info">
@@ -114,8 +114,8 @@
       <div class ="title">
         <p class="bold">LANGUAGE</p>
     </div>
-  
-    ENGLISH<BR> </BR>
+    LANGUAGE <BR> </BR>
+    ENGLISH <BR> </BR>
     HINDI  <BR> </BR>
     TELUGU <BR> </BR>
     </p>
@@ -143,20 +143,3 @@
      Date:27/11/2021
      </BODY>
   </HTML>
-    
-    
-    
-    
-      
-          
-            
-              
-            
-    
-
-
-</body>
-</html>
-
-
-
