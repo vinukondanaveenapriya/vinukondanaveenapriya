@@ -12,7 +12,7 @@
 <div class="resume">
   <div class="resume_left">
     <div class="resume_profile">
-      <img src="downloads\naveena.image">
+      <img src="C:\Users\USER\Downloads\naveena.image.jpg">
     </div>
     <div class="resume_content">
       <div class="resume_item resume_info">
