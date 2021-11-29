@@ -1,36 +1,160 @@
-- <!DOCTYPE html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<title>Naveenapriya's(resume)</title>
-<meta name="viewport"content="width=device-width,initial-scale=1">
-<link rel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<meta charset="UTF-8">
+  <title>Resume/CV Design
+  </title>
+<link rel="stylesheet" href="style.css">
+  <script src="https://kit.fontawesome.com/b99e675b6e.js">
+  </script>             
 </head>
 <body>
-<table align="center"width="85%">
-<tr><th><h1>MY RESUME</h1></th></tr>
-<tr><th align="left"><h2>Vinukonda Naveena Priya</h2>
-<img src="pictures/naveena.img" alt=not found"align="right" height="200"width="200"/>
-<ul>
-<li>very determied and discipline about work</li><br>
-<li><a class="fa fa-phone">8008380911</a></li><br>
-<li><a class="fa-fa=enevelope">vinukondanaveena013@gmail.com</a></li><br>
-<li><a class="fa-fa-linkedin" href="https://www.linkedin.com/in/Naveena013/"></a></li></ul>
-</th>
-</tr>
-</table>
-<table align="center" width="85%">
-<tr><th align="left"><h2>Education</h2><ul>
-<li>MCA:Sree Vidyanikethan institute of management,Tirupati<br></li>
-<li>BSC-MSCs:Sree vidyanikethan degree college,Tirupati<br></li>
-<li>Intermediate:Nri Academy<br></li>
-<li>School:Prashanth English Medium High School<br></li></ul>
-</th>
-</tr>
-</table>
-<table align="center" width="85%">
-<table align="left"><h2>Skills</h2><ul>
-<li> Basic Knowledge on Microsoft Office,java<br></li></ul>
-</table>
+<div class="resume">
+  <div class="resume_left">
+    <div class="resume_profile">
+      <![IMG-20210802-WA0009 (1)](https://user-images.githubusercontent.com/94543476/143875946-da0f2375-305f-4eed-a78c-a84e3515f7a9.jpg)>
+    </div>
+    <div class="resume_content">
+      <div class="resume_item resume_info">
+        <div class="title">
+          <p class ="bold">NAVEENAPRIYA</p>
+          <p class="regular">STUDENT</p>
+        </div>
+        <ul>
+          <li>
+          </div >
+        <div class="data">
+              PADMVATHIPURAM <br/> TIRUPATHI
+        </div>
+        </li>
+      <li>
+        <div class ="icon">
+          <i class="fas fa-mobile-alt"></i>
+        </div>
+        <div class="data">
+          8008380911 </div>
+      </li>
+      <li>
+        <div class="icon">
+          <i class="fas fa-envelope"></i>
+        </div>
+        <div class ="data"> 
+          VINUKONDANAVEENA013@GMAIL.COM
+        </div>
+      </li>
+      </ul>
+  </div>
+  <div class ="resume_item resume_skills">
+    <div class="title">
+      <p class="bold">skill's</p>
+    </div>
+    <ul>
+      <li>
+        <div class="skill_name">
+          HTML</div>
+        <div class="skill_progress">
+          <span style="width:80%;"></span>
+        </div>
+        <div>
+          class="skill_per">80%</div>
+        </li>
+          <li>
+            <div class="skill_name"> CSS
+            </div>
+            <div class="skill_progress">
+          <span style="width:70%;"></span>
+        </div>
+        <div>
+          class="skill_per">70%</div>
+        </li>
+          <li>
+            <div class="skill_name"> JAVA
+            </div>
+            <div class="skill_progress">
+          <span style="width:70%;"></span>
+        </div>
+        <div>
+          class="skill_per">70%</div>
+        </li>
+          </ul>
+  </div>
+  <div class ="resume_item resume_social">
+    <div class="title">
+      <p class="bold">social</p>
+    </div>
+    <ul>
+      <li>
+        <div class="icon">
+          <i class="fab fa-linkedin"></i>
+        </div>
+        <div class="data"> 
+          <p class="semi-bold">linkedin</p>
+          <p>www.linkedin.com/in/naveena013</p>
+        </div>
+      </li>
+    </ul>
+  </div>
+  </div>
+  </div>
+  <div class="resume_right">
+    <div class="resume_item resume_about">
+      <div class ="title">
+        <p class="bold">OBJECTIVE</p>
+      </div>
+      <p> To work with a leading company and to use my analytical thinking,knowledge,skills and experience to the best of my ability combined with perseverance, so as to contribute to organization for growtha and goal</p>
+    </div>
+    <div class="resume_item resume_work">
+      <div class="title">
+        <p class="bold">INTERPERSONAL SKILL</P>
+    </div>
+    Problem sloving<BR> </BR>
+    Team leader <BR> </BR>
+    </p>
+  <div class="resume_item resume_work">
+      <div class ="title">
+        <p class="bold">LANGUAGE</p>
+    </div>
+  
+    ENGLISH<BR> </BR>
+    HINDI  <BR> </BR>
+    TELUGU <BR> </BR>
+    </p>
+  <div class="resume_item resume_work">
+     <div class ="title">
+       <p class="bold">PERSONAL DETAILS</p>
+    </div>
+    Father's Name:Nagarju 
+    <BR> </BR>
+    Mother's Name:Manjula
+    <BR> </Br>
+    Date of Birth: 13 Oct 1999 <BR></BR>
+    Language known:Telugu,Hindi,English <BR></BR>
+    Hobbies and Interest:Reading books,Travelling. <BR></BR>
+    Nationality: Indian <BR></BR>
+    Marital status: Single <BR></BR>
+    Address:19-41-S1-133, Garudadri nagar,Tirupathi <BR></BR> </p>
+   <div class="resume_item resume_work">
+     <div class ="title">
+       <p class ="bold">Declaration</p>
+     </div>
+     I do hereby declare that the above information is true to the best of my knowledge.
+     Naveena Priya
+     Place: Tirupathi
+     Date:27/11/2021
+     </BODY>
+  </HTML>
+    
+    
+    
+    
+      
+          
+            
+              
+            
+    
+
+
 </body>
 </html>
 
